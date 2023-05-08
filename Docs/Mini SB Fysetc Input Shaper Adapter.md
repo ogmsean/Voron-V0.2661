@@ -1,6 +1,6 @@
-# Mini StealthBurner Fysetc Portable Input Shaper Adapter
+# Mini SB Fysetc PIS Adapter
 
-This is a simple adapter designed to mount the Fysetc PIS to a Mini SB for the Voron V0 or other systems
+This is a simple adapter designed to mount the Fysetc Portable Input Shaper to a Mini StealthBurner for the Voron V0 or other systems
 
 ![Mini StealthBurner Fysetc Portable Input Shaper Adapter designed by MakerM](https://github.com/ogmsean/Voron-V0.2661/blob/main/Images/Mini%20SB%20Fysetc%20Input%20Shaper%20Adapter.jpg)
 
